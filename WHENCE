@@ -1429,3 +1429,12 @@ File: zd1211b_ub,zd1211b_uphm,zd1211b_ur,zd1211_uph,zd1211_uphr,zd1211b_uph,zd12
 Info: http://linux-lc100020.sourceforge.net/
 
 License: Redistributable. See LICENCE.zd1211 for details
+
+--------------------------------------------------------------------------
+
+Driver: zd1201 - Driver for ZyDAS zd1201 based wireless USB devices.
+
+File: zd1201-ap.fw,zd1201.fw
+Info: http://linux-lc100020.sourceforge.net/
+
+License: Redistributable. See LICENCE.zd1201 for details
