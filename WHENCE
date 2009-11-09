@@ -995,3 +995,12 @@ File: dvb-usb-dib0700-1.20.fw
 Info: v1.20
 
 License: Redistributable. See LICENCE.dib0700 for details
+
+--------------------------------------------------------------------------
+
+Driver: ipw2200 - Intel ipw2200 wireless driver
+
+File: ipw2200-bss.fw, ipw2200-ibss.fw, ipw2200-sniffer.fw
+Info: version unknown
+
+License: Redistributable. See LICENCE.ipw2200 for details
