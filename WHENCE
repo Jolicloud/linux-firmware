@@ -1329,3 +1329,13 @@ File: ipw2100-1.3.fw, ipw2100-1.3-i.fw, ipw2100-1.3-p.fw
 Info: v1.3
 
 License: Redistributable. See LICENCE.ipw2100 for details
+
+--------------------------------------------------------------------------
+
+Driver: zd1211rw - ZD1211 USB-WLAN driver for Linux
+
+File: zd1211b_ub,zd1211b_uphm,zd1211b_ur,zd1211_uph,zd1211_uphr,zd1211b_uph,zd1211b_uphr,zd1211_ub
+      zd1211_uphm,zd1211_ur
+Info: http://linux-lc100020.sourceforge.net/
+
+License: Redistributable. See LICENCE.zd1211 for details
