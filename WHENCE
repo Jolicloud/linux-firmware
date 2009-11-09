@@ -1216,3 +1216,13 @@ File: zd1201-ap.fw,zd1201.fw
 Info: http://linux-lc100020.sourceforge.net/
 
 License: Redistributable. See LICENCE.zd1201 for details
+
+--------------------------------------------------------------------------
+
+Driver: pvrusb2, v4l-cx2341x - Hauppauge cx2341x based models
+
+File: v4l-pvrusb2-24xxx-01.fw, v4l-pvrusb2-29xxx-01.fw
+      v4l-cx2341x-dec.fw, v4l-cx2341x-enc.fw, v4l-cx2341x-init.mpg
+Info: http://www.isely.net/pvrusb2/firmware.html
+
+License: Redistributable. See LICENCE.cx2341x for details
