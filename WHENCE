@@ -1042,3 +1042,13 @@ File: v4l-pvrusb2-24xxx-01.fw, v4l-pvrusb2-29xxx-01.fw
 Info: http://www.isely.net/pvrusb2/firmware.html
 
 License: Redistributable. See LICENCE.cx2341x for details
+
+--------------------------------------------------------------------------
+
+Driver: atmel - Support for Atmel at76c50x 802.11 wireless ethernet cards.
+
+File: atmel_at76c502.bin,atmel_at76c502_3com.bin,atmel_at76c502d.bin,atmel_at76c502e.bin,atmel_at76c504.bin
+      atmel_at76c504_2958.bin,atmel_at76c504a_2958.bin,atmel_at76c506.bin
+Info: atmelwlandriver.sourceforge.net
+
+License: Redistributable. See LICENCE.atmel for details
