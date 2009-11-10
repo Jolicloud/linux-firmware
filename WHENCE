@@ -424,6 +424,7 @@ Licence: Redistributable. See LICENCE.agere for details
 
 Driver: ar9170 - Atheros 802.11n "otus" USB
 
+File: ar9170.fw
 File: ar9170-1.fw
 File: ar9170-2.fw
 
