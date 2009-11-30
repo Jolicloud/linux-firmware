@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>
 Standards-Version: 3.6.1
 Build-Depends: debhelper (>= 4.0.0), rsync
-Vcs-Git: http://kernel.ubuntu.com/git-repos/ubuntu/linux-firmware-karmic.git
+Vcs-Git: git://kernel.ubuntu.com/ubuntu/linux-firmware.git
 
 Package: linux-firmware
 Architecture: all
