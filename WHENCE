@@ -1538,3 +1538,13 @@ File: asihpi/dsp8900.bin
 Info: http://www.audioscience.com/internet/download/linux_drivers.htm
 
 License: Redistributable. See LICENCE.asihpi for details
+
+--------------------------------------------------------------------------
+
+Driver rtl8192e - Realtek 8192 PCI wireless driver
+
+Files: RTL8192E/*
+Licence: Redistributable, provided by Realtek in their driver
+         source download.
+
+--------------------------------------------------------------------------
