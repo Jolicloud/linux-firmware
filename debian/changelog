@@ -1,3 +1,9 @@
+linux-firmware (1.28jolicloud1) robby-dev; urgency=low
+
+  * Imported rtl8192se firmware 
+
+ -- Adam McDaniel <adam@jolicloud.org>  Wed, 30 Dec 2009 15:29:01 -0700
+
 linux-firmware (1.28) lucid; urgency=low
 
   * Exclude the debian directory when copying firmware.
