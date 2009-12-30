@@ -425,6 +425,7 @@ Licence: Redistributable. See LICENCE.agere for details
 
 Driver: AR9170 - Atheros 802.11n "otus" USB
 
+File: ar9170.fw
 File: ar9170-1.fw
 File: ar9170-2.fw
 
@@ -637,6 +638,9 @@ Info: v8.24.2.2
 
 File: iwlwifi-1000-3.ucode
 Info: v128.50.3.1
+
+File: iwlwifi-6000-4.ucode
+Info: v9.176.4.1
 
 License: Redistributable. See LICENCE.iwlwifi_firmware for details
 
@@ -995,3 +999,69 @@ File: dvb-usb-dib0700-1.20.fw
 Info: v1.20
 
 License: Redistributable. See LICENCE.dib0700 for details
+
+--------------------------------------------------------------------------
+
+Driver: ipw2200 - Intel ipw2200 wireless driver
+
+File: ipw2200-bss.fw, ipw2200-ibss.fw, ipw2200-sniffer.fw
+Info: version unknown
+
+License: Redistributable. See LICENCE.ipw2200 for details
+
+--------------------------------------------------------------------------
+
+Driver: ipw2100 - Intel ipw2100 wireless driver
+
+File: ipw2100-1.3.fw, ipw2100-1.3-i.fw, ipw2100-1.3-p.fw
+Info: v1.3
+
+License: Redistributable. See LICENCE.ipw2100 for details
+
+--------------------------------------------------------------------------
+
+Driver: zd1211rw - ZD1211 USB-WLAN driver for Linux
+
+File: zd1211b_ub,zd1211b_uphm,zd1211b_ur,zd1211_uph,zd1211_uphr,zd1211b_uph,zd1211b_uphr,zd1211_ub
+      zd1211_uphm,zd1211_ur
+Info: http://linux-lc100020.sourceforge.net/
+
+License: Redistributable. See LICENCE.zd1211 for details
+
+--------------------------------------------------------------------------
+
+Driver: zd1201 - Driver for ZyDAS zd1201 based wireless USB devices.
+
+File: zd1201-ap.fw,zd1201.fw
+Info: http://linux-lc100020.sourceforge.net/
+
+License: Redistributable. See LICENCE.zd1201 for details
+
+--------------------------------------------------------------------------
+
+Driver: pvrusb2, v4l-cx2341x - Hauppauge cx2341x based models
+
+File: v4l-pvrusb2-24xxx-01.fw, v4l-pvrusb2-29xxx-01.fw
+      v4l-cx2341x-dec.fw, v4l-cx2341x-enc.fw, v4l-cx2341x-init.mpg
+Info: http://www.isely.net/pvrusb2/firmware.html
+
+License: Redistributable. See LICENCE.cx2341x for details
+
+--------------------------------------------------------------------------
+
+Driver: atmel - Support for Atmel at76c50x 802.11 wireless ethernet cards.
+
+File: atmel_at76c502.bin,atmel_at76c502_3com.bin,atmel_at76c502d.bin,atmel_at76c502e.bin,atmel_at76c504.bin
+      atmel_at76c504_2958.bin,atmel_at76c504a_2958.bin,atmel_at76c506.bin
+Info: atmelwlandriver.sourceforge.net
+
+License: Redistributable. See LICENCE.atmel for details
+
+--------------------------------------------------------------------------
+
+Driver: aic94xx-seq
+
+File: aic94xx-seq.fw
+Info: http://www.adaptec.com/en-US/speed/scsi/linux/aic94xx-seq-30-1_tar_gz
+
+License: Redistributable. See LICENSE.aic94xx-seq for details
