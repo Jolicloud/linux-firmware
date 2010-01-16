@@ -1,3 +1,9 @@
+linux-firmware (1.28jolicloud2) robby; urgency=low
+
+  * Imported rtl8192u firmware
+
+ -- Adam McDaniel <adam@jolicloud.org>  Sat, 16 Jan 2010 14:32:26 -0700
+
 linux-firmware (1.28jolicloud1) robby-dev; urgency=low
 
   * Imported rtl8192se firmware 
