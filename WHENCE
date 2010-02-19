@@ -1182,7 +1182,7 @@ Driver: radeon - ATI Radeon
 File: radeon/R600_rlc.bin
 File: radeon/R700_rlc.bin
 
-Licence: Redistributable. See LICENSE.radeon_rlc for details.
+Licence: Redistributable. See LICENCE.radeon_rlc for details.
 
 --------------------------------------------------------------------------
 
@@ -1248,4 +1248,4 @@ Driver: aic94xx-seq
 File: aic94xx-seq.fw
 Info: http://www.adaptec.com/en-US/speed/scsi/linux/aic94xx-seq-30-1_tar_gz
 
-License: Redistributable. See LICENSE.aic94xx-seq for details
+License: Redistributable. See LICENCE.aic94xx-seq for details
