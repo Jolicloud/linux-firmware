@@ -1,3 +1,9 @@
+linux-firmware (1.30jolicloud1) robby-dev; urgency=low
+
+  * Rebased against lucid's linux-firmware v1.30
+
+ -- Adam McDaniel <adamm@jolicloud.org>  Mon, 22 Feb 2010 14:43:06 -0700
+
 linux-firmware (1.30) lucid; urgency=low
 
   * rebased against git://git.kernel.org/pub/scm/linux/kernel/git/dwmw2/linux-firmware.git d9076a54d74e371a11e1206b4a26e2e428045b9e
