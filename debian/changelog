@@ -1,3 +1,9 @@
+linux-firmware (1.30jolicloud2) robby; urgency=low
+
+  * Imported Qualcomm un2420 Firmware
+
+ -- Adam McDaniel <adam@jolicloud.org>  Thu, 11 Mar 2010 12:14:30 -0700
+
 linux-firmware (1.30jolicloud1) robby-dev; urgency=low
 
   * Rebased against lucid's linux-firmware v1.30
