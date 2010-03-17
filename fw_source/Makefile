@@ -1,6 +1,6 @@
 export firmware_dir := $(shell pwd)/..
 
-SUBDIRS =
+SUBDIRS = echoaudio
 
 build:
 	for dir in $(SUBDIRS) ; do ( cd $$dir ; $(MAKE) all ) ; done
