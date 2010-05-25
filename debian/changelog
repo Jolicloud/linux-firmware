@@ -1,3 +1,16 @@
+linux-firmware (1.35) maverick; urgency=low
+
+  [ Chase Douglas ]
+
+  * Add AudioScience ASI series audio device firmware
+
+  [ Upstream ]
+
+  * Add RealTek RTL8192E firmware
+  * rebased against git://git.kernel.org/pub/scm/linux/kernel/git/dwmw2/linux-firmware.git 25813c5c5ce0e8ce080de7a7fbf69b2c858798d2
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Tue, 25 May 2010 11:32:39 -0600
+
 linux-firmware (1.34) lucid; urgency=low
 
   [ Chase Douglas ]
