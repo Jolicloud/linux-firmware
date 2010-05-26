@@ -1,3 +1,21 @@
+linux-firmware (1.34.1) lucid-proposed; urgency=low
+
+  [ Chase Douglas ]
+
+  * Add AudioScience ASI series audio device firmware
+    -LP: #557037
+  * Add RealTek RTL8192E firmware
+    -LP: #508746
+  * Update firmware from rt2870sta
+    -LP: #580926
+
+  [ Tim Gardner ]
+
+  * radeon: add evergreen family microcode.
+    -LP: #560306
+
+ -- Chase Douglas <chase.douglas@canonical.com>  Mon, 24 May 2010 17:51:17 -0400
+
 linux-firmware (1.34) lucid; urgency=low
 
   [ Chase Douglas ]
