@@ -4,7 +4,8 @@ Priority: optional
 Maintainer: Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>
 Standards-Version: 3.6.1
 Build-Depends: debhelper (>= 4.0.0), rsync
-Vcs-Git: git://kernel.ubuntu.com/ubuntu/linux-firmware.git
+Vcs-Git: git://github.com/jolicloud/linux-firmware.git
+Vcs-Browser: https://github.com/jolicloud/linux-firmware
 
 Package: linux-firmware
 Architecture: all
